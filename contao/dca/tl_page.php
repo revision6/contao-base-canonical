@@ -1,7 +1,7 @@
 <?php
 
 // Palettes
-$GLOBALS['TL_DCA']['tl_page']['palettes']['regular'] .= ';{canonical_legend},enable_canonical_home';
+$GLOBALS['TL_DCA']['tl_page']['palettes']['regular'] .= ';{canonical_legend},enable_canonical_base';
 
 // Fields
 $GLOBALS['TL_DCA']['tl_page']['fields']['enable_canonical_base'] = array
